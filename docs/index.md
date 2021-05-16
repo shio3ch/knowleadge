@@ -4,4 +4,4 @@
 
 ## Java
 
-* [Effective Java（第3版）](./java/effectivejava/tableofcontents)
+* [Effective Java（第3版）](./pages/java/effectivejava/tableofcontents)
